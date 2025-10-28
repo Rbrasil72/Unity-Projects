@@ -13,7 +13,7 @@ To try the game: www.bigwllytm.itch.io/endless-void
 # Monochrome
 My second project (not finished).
 
-A few months after finishing school and on my first job when i had free-time, started to make a simple platformer with the art style being pixel and minimalistic with 3 or 4 colors total.
+A few months after finishing school and on my first job when i had free-time, started to make a simple platformer with the art style being pixelated and minimalistic with 3 or 4 colors total.
 Very early concept with basic platformer movement with running, jumping and a very interactive main menu screen.
 
 To try the game: www.bigwllytm.itch.io/monochrome
